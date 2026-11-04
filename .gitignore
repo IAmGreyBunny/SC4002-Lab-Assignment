@@ -161,6 +161,7 @@ torch/_rocm_init.py
 .ipynb_checkpoints
 
 *.pt
+!model/*.pt
 
 # Editor temporaries
 *.swa
