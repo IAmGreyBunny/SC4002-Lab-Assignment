@@ -1,0 +1,237 @@
+{
+   "best_epoch": 21,
+   "history": [
+      {
+         "Full lemma mask 0.10 intent": 51.65,
+         "Full lemma mask 0.10 slot F1": 60.59,
+         "Full lemma mask 0.10 val loss": 5.5749,
+         "epoch": 1,
+         "seconds": 18.8,
+         "train_loss": 10.3512
+      },
+      {
+         "Full lemma mask 0.10 intent": 71.57,
+         "Full lemma mask 0.10 slot F1": 71.38,
+         "Full lemma mask 0.10 val loss": 3.9074,
+         "epoch": 2,
+         "seconds": 13.9,
+         "train_loss": 5.3381
+      },
+      {
+         "Full lemma mask 0.10 intent": 78.36,
+         "Full lemma mask 0.10 slot F1": 77.06,
+         "Full lemma mask 0.10 val loss": 3.2125,
+         "epoch": 3,
+         "seconds": 16.1,
+         "train_loss": 4.0892
+      },
+      {
+         "Full lemma mask 0.10 intent": 81.41,
+         "Full lemma mask 0.10 slot F1": 78.14,
+         "Full lemma mask 0.10 val loss": 3.0231,
+         "epoch": 4,
+         "seconds": 16.8,
+         "train_loss": 3.4653
+      },
+      {
+         "Full lemma mask 0.10 intent": 83.08,
+         "Full lemma mask 0.10 slot F1": 79,
+         "Full lemma mask 0.10 val loss": 2.8972,
+         "epoch": 5,
+         "seconds": 16.6,
+         "train_loss": 3.0549
+      },
+      {
+         "Full lemma mask 0.10 intent": 83.96,
+         "Full lemma mask 0.10 slot F1": 80.24,
+         "Full lemma mask 0.10 val loss": 2.7472,
+         "epoch": 6,
+         "seconds": 15.9,
+         "train_loss": 2.7694
+      },
+      {
+         "Full lemma mask 0.10 intent": 85.49,
+         "Full lemma mask 0.10 slot F1": 80.6,
+         "Full lemma mask 0.10 val loss": 2.6676,
+         "epoch": 7,
+         "seconds": 16.9,
+         "train_loss": 2.562
+      },
+      {
+         "Full lemma mask 0.10 intent": 84.7,
+         "Full lemma mask 0.10 slot F1": 79.72,
+         "Full lemma mask 0.10 val loss": 2.6873,
+         "epoch": 8,
+         "seconds": 17.6,
+         "train_loss": 2.38
+      },
+      {
+         "Full lemma mask 0.10 intent": 84.95,
+         "Full lemma mask 0.10 slot F1": 80.83,
+         "Full lemma mask 0.10 val loss": 2.6275,
+         "epoch": 9,
+         "seconds": 16.9,
+         "train_loss": 2.2105
+      },
+      {
+         "Full lemma mask 0.10 intent": 85.24,
+         "Full lemma mask 0.10 slot F1": 81.25,
+         "Full lemma mask 0.10 val loss": 2.7084,
+         "epoch": 10,
+         "seconds": 15.3,
+         "train_loss": 2.1072
+      },
+      {
+         "Full lemma mask 0.10 intent": 85.1,
+         "Full lemma mask 0.10 slot F1": 81.28,
+         "Full lemma mask 0.10 val loss": 2.6398,
+         "epoch": 11,
+         "seconds": 15.6,
+         "train_loss": 2.0013
+      },
+      {
+         "Full lemma mask 0.10 intent": 85.88,
+         "Full lemma mask 0.10 slot F1": 80.88,
+         "Full lemma mask 0.10 val loss": 2.6252,
+         "epoch": 12,
+         "seconds": 16.6,
+         "train_loss": 1.9461
+      },
+      {
+         "Full lemma mask 0.10 intent": 85.64,
+         "Full lemma mask 0.10 slot F1": 80.93,
+         "Full lemma mask 0.10 val loss": 2.6299,
+         "epoch": 13,
+         "seconds": 15.4,
+         "train_loss": 1.8458
+      },
+      {
+         "Full lemma mask 0.10 intent": 85.74,
+         "Full lemma mask 0.10 slot F1": 80.57,
+         "Full lemma mask 0.10 val loss": 2.6827,
+         "epoch": 14,
+         "seconds": 17.2,
+         "train_loss": 1.7934
+      },
+      {
+         "Full lemma mask 0.10 intent": 85,
+         "Full lemma mask 0.10 slot F1": 80.76,
+         "Full lemma mask 0.10 val loss": 2.6929,
+         "epoch": 15,
+         "seconds": 17.6,
+         "train_loss": 1.7494
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.33,
+         "Full lemma mask 0.10 slot F1": 81.07,
+         "Full lemma mask 0.10 val loss": 2.6438,
+         "epoch": 16,
+         "seconds": 16.1,
+         "train_loss": 1.6882
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.13,
+         "Full lemma mask 0.10 slot F1": 80.95,
+         "Full lemma mask 0.10 val loss": 2.6832,
+         "epoch": 17,
+         "seconds": 15.9,
+         "train_loss": 1.6087
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.13,
+         "Full lemma mask 0.10 slot F1": 80.75,
+         "Full lemma mask 0.10 val loss": 2.647,
+         "epoch": 18,
+         "seconds": 15.9,
+         "train_loss": 1.5933
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.82,
+         "Full lemma mask 0.10 slot F1": 80.53,
+         "Full lemma mask 0.10 val loss": 2.6799,
+         "epoch": 19,
+         "seconds": 15.6,
+         "train_loss": 1.545
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.92,
+         "Full lemma mask 0.10 slot F1": 80.6,
+         "Full lemma mask 0.10 val loss": 2.7235,
+         "epoch": 20,
+         "seconds": 16.7,
+         "train_loss": 1.5173
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.87,
+         "Full lemma mask 0.10 slot F1": 81.25,
+         "Full lemma mask 0.10 val loss": 2.7527,
+         "epoch": 21,
+         "seconds": 14.1,
+         "train_loss": 1.4797
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.23,
+         "Full lemma mask 0.10 slot F1": 81.24,
+         "Full lemma mask 0.10 val loss": 2.7543,
+         "epoch": 22,
+         "seconds": 13.7,
+         "train_loss": 1.4588
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.62,
+         "Full lemma mask 0.10 slot F1": 81.27,
+         "Full lemma mask 0.10 val loss": 2.7106,
+         "epoch": 23,
+         "seconds": 14.1,
+         "train_loss": 1.4241
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.42,
+         "Full lemma mask 0.10 slot F1": 80.8,
+         "Full lemma mask 0.10 val loss": 2.7349,
+         "epoch": 24,
+         "seconds": 14.5,
+         "train_loss": 1.4185
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.33,
+         "Full lemma mask 0.10 slot F1": 81.46,
+         "Full lemma mask 0.10 val loss": 2.7749,
+         "epoch": 25,
+         "seconds": 16.9,
+         "train_loss": 1.3952
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.08,
+         "Full lemma mask 0.10 slot F1": 81.23,
+         "Full lemma mask 0.10 val loss": 2.7582,
+         "epoch": 26,
+         "seconds": 27.4,
+         "train_loss": 1.3561
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.47,
+         "Full lemma mask 0.10 slot F1": 81.35,
+         "Full lemma mask 0.10 val loss": 2.7816,
+         "epoch": 27,
+         "seconds": 13.4,
+         "train_loss": 1.3374
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.52,
+         "Full lemma mask 0.10 slot F1": 81.14,
+         "Full lemma mask 0.10 val loss": 2.7969,
+         "epoch": 28,
+         "seconds": 20,
+         "train_loss": 1.3349
+      },
+      {
+         "Full lemma mask 0.10 intent": 86.82,
+         "Full lemma mask 0.10 slot F1": 81,
+         "Full lemma mask 0.10 val loss": 2.7831,
+         "epoch": 29,
+         "seconds": 21.9,
+         "train_loss": 1.3263
+      }
+   ]
+}

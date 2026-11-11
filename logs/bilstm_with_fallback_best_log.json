@@ -1,0 +1,253 @@
+{
+   "best_epoch": 23,
+   "history": [
+      {
+         "With fallback intent": 55.39,
+         "With fallback slot F1": 62.55,
+         "With fallback val loss": 5.1125,
+         "epoch": 1,
+         "seconds": 12.9,
+         "train_loss": 9.5076
+      },
+      {
+         "With fallback intent": 73.19,
+         "With fallback slot F1": 73.74,
+         "With fallback val loss": 3.6821,
+         "epoch": 2,
+         "seconds": 12.7,
+         "train_loss": 4.4636
+      },
+      {
+         "With fallback intent": 79.54,
+         "With fallback slot F1": 77.57,
+         "With fallback val loss": 3.1117,
+         "epoch": 3,
+         "seconds": 12.6,
+         "train_loss": 3.3088
+      },
+      {
+         "With fallback intent": 81.95,
+         "With fallback slot F1": 78.74,
+         "With fallback val loss": 2.9186,
+         "epoch": 4,
+         "seconds": 12.5,
+         "train_loss": 2.6945
+      },
+      {
+         "With fallback intent": 83.67,
+         "With fallback slot F1": 78.66,
+         "With fallback val loss": 2.8004,
+         "epoch": 5,
+         "seconds": 12.5,
+         "train_loss": 2.2826
+      },
+      {
+         "With fallback intent": 84.9,
+         "With fallback slot F1": 80.04,
+         "With fallback val loss": 2.7541,
+         "epoch": 6,
+         "seconds": 12.6,
+         "train_loss": 2.0128
+      },
+      {
+         "With fallback intent": 85.1,
+         "With fallback slot F1": 80.74,
+         "With fallback val loss": 2.7288,
+         "epoch": 7,
+         "seconds": 12.6,
+         "train_loss": 1.7801
+      },
+      {
+         "With fallback intent": 85.05,
+         "With fallback slot F1": 79.69,
+         "With fallback val loss": 2.8047,
+         "epoch": 8,
+         "seconds": 12.6,
+         "train_loss": 1.6554
+      },
+      {
+         "With fallback intent": 85.15,
+         "With fallback slot F1": 80.48,
+         "With fallback val loss": 2.7886,
+         "epoch": 9,
+         "seconds": 13.2,
+         "train_loss": 1.5308
+      },
+      {
+         "With fallback intent": 86.03,
+         "With fallback slot F1": 80.3,
+         "With fallback val loss": 2.782,
+         "epoch": 10,
+         "seconds": 14.1,
+         "train_loss": 1.3915
+      },
+      {
+         "With fallback intent": 86.08,
+         "With fallback slot F1": 80.87,
+         "With fallback val loss": 2.8609,
+         "epoch": 11,
+         "seconds": 14.1,
+         "train_loss": 1.3033
+      },
+      {
+         "With fallback intent": 85.88,
+         "With fallback slot F1": 79.79,
+         "With fallback val loss": 2.8814,
+         "epoch": 12,
+         "seconds": 13.5,
+         "train_loss": 1.2716
+      },
+      {
+         "With fallback intent": 86.13,
+         "With fallback slot F1": 81.09,
+         "With fallback val loss": 2.9363,
+         "epoch": 13,
+         "seconds": 16.3,
+         "train_loss": 1.2107
+      },
+      {
+         "With fallback intent": 85.93,
+         "With fallback slot F1": 81.09,
+         "With fallback val loss": 2.9715,
+         "epoch": 14,
+         "seconds": 23,
+         "train_loss": 1.1417
+      },
+      {
+         "With fallback intent": 86.33,
+         "With fallback slot F1": 80.93,
+         "With fallback val loss": 3.011,
+         "epoch": 15,
+         "seconds": 34.7,
+         "train_loss": 1.1215
+      },
+      {
+         "With fallback intent": 86.28,
+         "With fallback slot F1": 80.36,
+         "With fallback val loss": 3.0104,
+         "epoch": 16,
+         "seconds": 44.3,
+         "train_loss": 1.0834
+      },
+      {
+         "With fallback intent": 85.69,
+         "With fallback slot F1": 79.71,
+         "With fallback val loss": 3.0776,
+         "epoch": 17,
+         "seconds": 18.6,
+         "train_loss": 1.0516
+      },
+      {
+         "With fallback intent": 86.13,
+         "With fallback slot F1": 80.12,
+         "With fallback val loss": 3.0055,
+         "epoch": 18,
+         "seconds": 16.6,
+         "train_loss": 1.0472
+      },
+      {
+         "With fallback intent": 86.37,
+         "With fallback slot F1": 80.52,
+         "With fallback val loss": 3.104,
+         "epoch": 19,
+         "seconds": 17.5,
+         "train_loss": 0.9959
+      },
+      {
+         "With fallback intent": 87.01,
+         "With fallback slot F1": 80.81,
+         "With fallback val loss": 3.1434,
+         "epoch": 20,
+         "seconds": 14.6,
+         "train_loss": 0.9802
+      },
+      {
+         "With fallback intent": 86.33,
+         "With fallback slot F1": 81.49,
+         "With fallback val loss": 3.1193,
+         "epoch": 21,
+         "seconds": 14.3,
+         "train_loss": 0.9638
+      },
+      {
+         "With fallback intent": 86.52,
+         "With fallback slot F1": 80.8,
+         "With fallback val loss": 3.1543,
+         "epoch": 22,
+         "seconds": 16.1,
+         "train_loss": 0.9532
+      },
+      {
+         "With fallback intent": 86.97,
+         "With fallback slot F1": 81.65,
+         "With fallback val loss": 3.1458,
+         "epoch": 23,
+         "seconds": 14.7,
+         "train_loss": 0.9419
+      },
+      {
+         "With fallback intent": 86.57,
+         "With fallback slot F1": 80.78,
+         "With fallback val loss": 3.1696,
+         "epoch": 24,
+         "seconds": 15.1,
+         "train_loss": 0.9333
+      },
+      {
+         "With fallback intent": 86.72,
+         "With fallback slot F1": 81.25,
+         "With fallback val loss": 3.174,
+         "epoch": 25,
+         "seconds": 14.8,
+         "train_loss": 0.9039
+      },
+      {
+         "With fallback intent": 86.13,
+         "With fallback slot F1": 81.17,
+         "With fallback val loss": 3.2035,
+         "epoch": 26,
+         "seconds": 17.8,
+         "train_loss": 0.9002
+      },
+      {
+         "With fallback intent": 86.87,
+         "With fallback slot F1": 81.14,
+         "With fallback val loss": 3.2105,
+         "epoch": 27,
+         "seconds": 15.4,
+         "train_loss": 0.9011
+      },
+      {
+         "With fallback intent": 86.92,
+         "With fallback slot F1": 81.07,
+         "With fallback val loss": 3.2402,
+         "epoch": 28,
+         "seconds": 15.3,
+         "train_loss": 0.8793
+      },
+      {
+         "With fallback intent": 86.77,
+         "With fallback slot F1": 81.05,
+         "With fallback val loss": 3.242,
+         "epoch": 29,
+         "seconds": 14.6,
+         "train_loss": 0.8804
+      },
+      {
+         "With fallback intent": 86.62,
+         "With fallback slot F1": 81.28,
+         "With fallback val loss": 3.2161,
+         "epoch": 30,
+         "seconds": 14.8,
+         "train_loss": 0.8723
+      },
+      {
+         "With fallback intent": 86.62,
+         "With fallback slot F1": 81.24,
+         "With fallback val loss": 3.2569,
+         "epoch": 31,
+         "seconds": 15.2,
+         "train_loss": 0.8675
+      }
+   ]
+}
