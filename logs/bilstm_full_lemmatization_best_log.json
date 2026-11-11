@@ -1,0 +1,181 @@
+{
+   "best_epoch": 14,
+   "history": [
+      {
+         "Full lemmatization intent": 55.83,
+         "Full lemmatization slot F1": 62.91,
+         "Full lemmatization val loss": 5.1036,
+         "epoch": 1,
+         "seconds": 18.1,
+         "train_loss": 9.5321
+      },
+      {
+         "Full lemmatization intent": 74.32,
+         "Full lemmatization slot F1": 72.97,
+         "Full lemmatization val loss": 3.7076,
+         "epoch": 2,
+         "seconds": 15.5,
+         "train_loss": 4.4828
+      },
+      {
+         "Full lemmatization intent": 79.19,
+         "Full lemmatization slot F1": 77.13,
+         "Full lemmatization val loss": 3.1593,
+         "epoch": 3,
+         "seconds": 16.1,
+         "train_loss": 3.355
+      },
+      {
+         "Full lemmatization intent": 81.75,
+         "Full lemmatization slot F1": 79.05,
+         "Full lemmatization val loss": 3.0054,
+         "epoch": 4,
+         "seconds": 14.7,
+         "train_loss": 2.7169
+      },
+      {
+         "Full lemmatization intent": 82.44,
+         "Full lemmatization slot F1": 79.46,
+         "Full lemmatization val loss": 2.9151,
+         "epoch": 5,
+         "seconds": 15,
+         "train_loss": 2.3129
+      },
+      {
+         "Full lemmatization intent": 83.77,
+         "Full lemmatization slot F1": 80.41,
+         "Full lemmatization val loss": 2.7634,
+         "epoch": 6,
+         "seconds": 15.1,
+         "train_loss": 2.0578
+      },
+      {
+         "Full lemmatization intent": 84.31,
+         "Full lemmatization slot F1": 79.82,
+         "Full lemmatization val loss": 2.8061,
+         "epoch": 7,
+         "seconds": 15.3,
+         "train_loss": 1.8135
+      },
+      {
+         "Full lemmatization intent": 84.06,
+         "Full lemmatization slot F1": 80.61,
+         "Full lemmatization val loss": 2.8277,
+         "epoch": 8,
+         "seconds": 15.4,
+         "train_loss": 1.6597
+      },
+      {
+         "Full lemmatization intent": 85,
+         "Full lemmatization slot F1": 80.55,
+         "Full lemmatization val loss": 2.8118,
+         "epoch": 9,
+         "seconds": 16.2,
+         "train_loss": 1.5505
+      },
+      {
+         "Full lemmatization intent": 85.05,
+         "Full lemmatization slot F1": 81.11,
+         "Full lemmatization val loss": 2.8661,
+         "epoch": 10,
+         "seconds": 15.3,
+         "train_loss": 1.4184
+      },
+      {
+         "Full lemmatization intent": 84.8,
+         "Full lemmatization slot F1": 80.71,
+         "Full lemmatization val loss": 2.8603,
+         "epoch": 11,
+         "seconds": 15.4,
+         "train_loss": 1.3349
+      },
+      {
+         "Full lemmatization intent": 84.8,
+         "Full lemmatization slot F1": 80.83,
+         "Full lemmatization val loss": 2.844,
+         "epoch": 12,
+         "seconds": 14.9,
+         "train_loss": 1.2642
+      },
+      {
+         "Full lemmatization intent": 85.34,
+         "Full lemmatization slot F1": 81.29,
+         "Full lemmatization val loss": 2.8841,
+         "epoch": 13,
+         "seconds": 15.2,
+         "train_loss": 1.2291
+      },
+      {
+         "Full lemmatization intent": 86.13,
+         "Full lemmatization slot F1": 81.86,
+         "Full lemmatization val loss": 2.9125,
+         "epoch": 14,
+         "seconds": 14.7,
+         "train_loss": 1.1594
+      },
+      {
+         "Full lemmatization intent": 85.69,
+         "Full lemmatization slot F1": 81.14,
+         "Full lemmatization val loss": 2.9124,
+         "epoch": 15,
+         "seconds": 14.6,
+         "train_loss": 1.1315
+      },
+      {
+         "Full lemmatization intent": 85.15,
+         "Full lemmatization slot F1": 81.62,
+         "Full lemmatization val loss": 2.8953,
+         "epoch": 16,
+         "seconds": 14.2,
+         "train_loss": 1.0849
+      },
+      {
+         "Full lemmatization intent": 85.54,
+         "Full lemmatization slot F1": 80.93,
+         "Full lemmatization val loss": 2.9923,
+         "epoch": 17,
+         "seconds": 14.6,
+         "train_loss": 1.0593
+      },
+      {
+         "Full lemmatization intent": 85.49,
+         "Full lemmatization slot F1": 80.64,
+         "Full lemmatization val loss": 3.0247,
+         "epoch": 18,
+         "seconds": 14.7,
+         "train_loss": 1.0413
+      },
+      {
+         "Full lemmatization intent": 85.93,
+         "Full lemmatization slot F1": 81.1,
+         "Full lemmatization val loss": 3.0652,
+         "epoch": 19,
+         "seconds": 14.9,
+         "train_loss": 1.0036
+      },
+      {
+         "Full lemmatization intent": 85.93,
+         "Full lemmatization slot F1": 81.39,
+         "Full lemmatization val loss": 3.0233,
+         "epoch": 20,
+         "seconds": 16.1,
+         "train_loss": 0.9786
+      },
+      {
+         "Full lemmatization intent": 85.78,
+         "Full lemmatization slot F1": 81.48,
+         "Full lemmatization val loss": 3.0374,
+         "epoch": 21,
+         "seconds": 15.4,
+         "train_loss": 0.9713
+      },
+      {
+         "Full lemmatization intent": 86.23,
+         "Full lemmatization slot F1": 81.08,
+         "Full lemmatization val loss": 3.0854,
+         "epoch": 22,
+         "seconds": 16.2,
+         "train_loss": 0.9541
+      }
+   ]
+}
